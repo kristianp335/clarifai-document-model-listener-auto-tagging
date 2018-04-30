@@ -1,0 +1,7 @@
+Bundle-Name: clarifaiDocumentClassifierModelListener
+Bundle-SymbolicName: com.liferay.demo
+Bundle-Version: 1.0.0
+Bundle-ClassPath: ., lib/core-2.5.0.jar, lib/okio-1.14.0.jar, lib/gson-2.8.3.jar, lib/commons-io-2.5.jar, lib/okhttp-3.2.0.jar
+-includeresource: lib/core-2.5.0.jar = core-2.5.0.jar, lib/okio-1.14.0.jar = okio-1.14.0.jar, lib/gson-2.8.3.jar = gson-2.8.3.jar, lib/commons-io-2.5.jar = commons-io-2.5.jar, lib/okhttp-3.2.0.jar = okhttp-3.2.0.jar
+Import-Package: !android.util, *
+-metatype: *
