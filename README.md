@@ -18,8 +18,9 @@ call Clarifai's API ( https://www.clarifai.com/ ) to put tags on new created ima
 
 ##########################
 
-1-Run the test (it will fail and tell you what to do)
+Go to Clarifai and create an account. Get your API key and paste it in the constants file.
+Find an image, upload it to a Liferay documents folder and watch the image be tagged automatically.
+You will see the tags in your server log as well as when editing the document.
 
-2-Do what the error messages tell you to do (basically create an account)
 
 
